@@ -1,0 +1,29 @@
+{
+  "name": "postgresql_learn",
+  "version": "1.0.0",
+  "description": "PostgreSQL Learning with Node, pg",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fearless23/postgreSQL_Learn.git"
+  },
+  "keywords": [
+    "postgreSQL",
+    "express",
+    "node",
+    "pg"
+  ],
+  "author": "Jaspreet Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fearless23/postgreSQL_Learn/issues"
+  },
+  "homepage": "https://github.com/fearless23/postgreSQL_Learn#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.14.0"
+  }
+}
