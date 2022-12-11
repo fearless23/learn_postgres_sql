@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/fearless23/postgreSQL_Learn#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pg": "^7.14.0"
   }
 }
